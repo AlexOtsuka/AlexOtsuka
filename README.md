@@ -31,7 +31,7 @@ I'm a fluent :us: english, :jp: japanese, and :fr: french speaker.
 
 It's only years after dropping out, by spending time on various passion projects, that my interest for programming was reignited.
 
-### After my mid 20s,
+### After my early 20s,
 - Finally taught myself Python and Javascript.
 - Took a deep dive and learned Data Structures and Algorithms.
 - Taught myself C# with a childlike curiosity and acquired a deep appreciation for the OOP paradigm.
