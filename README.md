@@ -19,7 +19,7 @@
 
 # About me
 
-My name's <strong>Alex</strong>. I'm a self-taught <strong>Programmer</strong>, <strong>Game Developper</strong> and <strong>Godot Engine Contributor</strong>.<br>
+My name's <strong>Alex</strong>. I'm a self-taught <strong>Programmer</strong> and <strong>Game Developper</strong>.
 I'm a fluent :us: english, :jp: japanese, and :fr: french speaker.
 
 ### As a teen,
