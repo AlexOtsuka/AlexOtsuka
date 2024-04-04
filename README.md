@@ -24,7 +24,7 @@ I'm a fluent :us: english, :jp: japanese, and :fr: french speaker.
 
 ### As a teen,
 - Got started in my early teens with ActionScript 2.0, for Macromedia Flash MX 2004.
-- Soon got into HTML/CSS, PHP and MySQL and started building websites from scratch.
+- Soon got into HTML/CSS, PHP and SQL and started building websites from scratch.
 - Learned the basics of C and C++, some Object-Oriented Programming concepts, and dabbled in GNU/Linux.
 - As I got busier with high school, I spent less and less time on coding.
 - Aimlessly became a CS major. Bored out of my mind, I dropped out after completing year one and acquiring the only ECTS credits I'll ever have to my name.
