@@ -6,9 +6,9 @@
 
 ### :grey_question: Ongoing
 
-[Add the ability to see and unload Resources loaded by ResourceLoader.load_threaded_request()](https://github.com/godotengine/godot/pull/86603)<br>
-[Fix Set Animation Save Paths breaking on Windows](https://github.com/godotengine/godot/pull/90003)<br>
-[Fix FileSystemDock behavior when dropping an item in the current folder](https://github.com/godotengine/godot/pull/90062)
+- [Add the ability to see and unload Resources loaded by ResourceLoader.load_threaded_request()](https://github.com/godotengine/godot/pull/86603)
+- [Fix Set Animation Save Paths breaking on Windows](https://github.com/godotengine/godot/pull/90003)
+- [Fix FileSystemDock behavior when dropping an item in the current folder](https://github.com/godotengine/godot/pull/90062)
 
 # My Current Projects and Goals
 
