@@ -12,8 +12,8 @@
 
 # My Current Projects and Goals
 
-- Creating and releasing my dream video game.
-- Improving as a programmer. Always, always, always. Never stop learning.
+- Creating and releasing my indie video game.
+- Improving as a developper, and as a person.
 - Spending more time contributing to Godot, and helping newer users get started with the engine.
 - Collaborating with more people, on more projects!
 
@@ -27,14 +27,14 @@ I'm a fluent :us: english, :jp: japanese, and :fr: french speaker.
 - Soon got into HTML/CSS, PHP and SQL and started building websites from scratch.
 - Learned the basics of C and C++, some Object-Oriented Programming concepts, and dabbled in GNU/Linux.
 - As I got busier with high school, I spent less and less time on coding.
-- Aimlessly became a CS major. Bored out of my mind, I dropped out after completing year one and acquiring the only ECTS credits I'll ever have to my name.
+- Aimlessly became a CS major. Directionless and bored out of my mind, I dropped out after completing year one and acquiring the only ECTS credits I'll ever have to my name.
 
 It's only years after dropping out, by spending time on various passion projects, that my interest for programming was reignited.
 
-### After my early 20s,
+### Since my mid 20s,
 - Finally taught myself Python and Javascript.
-- Took a deep dive and learned Data Structures and Algorithms.
-- Taught myself C# with a childlike curiosity and acquired a deep appreciation for the OOP paradigm.
+- Took a deep dive and learned the academic side of Data Structures and Algorithms.
+- Taught myself C# with an open mind and acquired a deep appreciation for the OOP paradigm.
 - Got into Game Development, initially using Unity3D, before switching over to Godot.
 - Started contributing to [Godot Engine](https://godotengine.org/).
 
